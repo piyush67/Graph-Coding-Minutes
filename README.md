@@ -1,2 +1,2 @@
-# Graph-Coding-Minutes
+# graph solutions
 Codes 
